@@ -31,3 +31,11 @@ This project is a **web application** built with **React** and **Vite**, designe
 ## Screenshots
 <img width="1512" alt="Screenshot 2024-11-02 at 4 44 20 PM" src="https://github.com/user-attachments/assets/891826a2-a4a8-4693-9061-19f5b4ea2eb6">
 <img width="1512" alt="Screenshot 2024-11-02 at 4 44 34 PM" src="https://github.com/user-attachments/assets/b0423fa3-8f78-46a8-9b3d-5a2df9963d0d">
+
+## Resources
+
+The resources for this project, including images, icons, and templates, were obtained from various sources. Specifically, the job web portal assets were sourced from their respective websites, while the other media were taken from:
+
+    -https://iculum.com/plantillas-de-curriculum-en-word-para-descargar-gratis/
+
+    -https://www.flaticon.es/resultados?word=cv
