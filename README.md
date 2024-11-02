@@ -1,6 +1,6 @@
 # Job Search Assistant
 
-This project is a **web application** built with **React** and **Vite**, designed to provide tools that facilitate job searching and enhance the presentation of your professional profile. The application includes a list of **popular job platforms** and a section with **practical tips for improving your resume**, along with the ability to download resume templates in various styles.
+This project is a **web application** built with **React** and **Vite**, designed to provide tools that facilitate job searching and enhance the presentation of your professional profile. The application includes a list of **popular job platforms** and a section with **practical tips for improving your resume**, along with the ability to download resume templates in various styles, this web app is oriented for colombian users.
 
 ## Features
 
@@ -21,10 +21,12 @@ This project is a **web application** built with **React** and **Vite**, designe
 1. Clone this repository.
 
 2. Install dependencies with.
--yarn install
+
+    -yarn install
 
 3. Start the development enviroment with:
--yarn dev
+
+    -yarn dev
 
 ## Screenshots
 <img width="1512" alt="Screenshot 2024-11-02 at 4 44 20 PM" src="https://github.com/user-attachments/assets/891826a2-a4a8-4693-9061-19f5b4ea2eb6">
