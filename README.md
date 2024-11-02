@@ -1,50 +1,31 @@
-# React + TypeScript + Vite
+# Job Search Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **web application** built with **React** and **Vite**, designed to provide tools that facilitate job searching and enhance the presentation of your professional profile. The application includes a list of **popular job platforms** and a section with **practical tips for improving your resume**, along with the ability to download resume templates in various styles.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Job Platforms**: Explore links to recognized job search platforms.
+- **CV Tips**: Access a list of recommendations to highlight your professional profile.
+- **Resume Template Downloads**: Offers multiple templates ready for download and customization.
+- **Intuitive User Interface**: Includes interactive tabs for easy navigation between sections.
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- **React** with **Vite** as the development environment
+- **TailwindCSS** for rapid and responsive styling
+- **Radix UI** for accessible components
+- **Lucide-react** for icons
 
-- Configure the top-level `parserOptions` property like this:
+## Installation and Setup
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+1. Clone this repository.
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+2. Install dependencies with.
+-yarn install
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+3. Start the development enviroment with:
+-yarn dev
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+## Screenshots
+<img width="1512" alt="Screenshot 2024-11-02 at 4 44 20 PM" src="https://github.com/user-attachments/assets/891826a2-a4a8-4693-9061-19f5b4ea2eb6">
+<img width="1512" alt="Screenshot 2024-11-02 at 4 44 34 PM" src="https://github.com/user-attachments/assets/b0423fa3-8f78-46a8-9b3d-5a2df9963d0d">
