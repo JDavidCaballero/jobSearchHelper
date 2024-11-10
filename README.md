@@ -2,6 +2,10 @@
 
 This project is a **web application** built with **React** and **Vite**, designed to provide tools that facilitate job searching and enhance the presentation of your professional profile. The application includes a list of **popular job platforms** and a section with **practical tips for improving your resume**, along with the ability to download resume templates in various styles, this web app is oriented for colombian users.
 
+# Test the page (with some limited features)
+
+https://jdavidcaballero.github.io/jobSearchHelper/
+
 ## Features
 
 - **Job Platforms**: Explore links to recognized job search platforms.
